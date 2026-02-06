@@ -13,7 +13,7 @@
 
 2.  **Edita el archivo** Abre el archivo `index.html` en tu editor de código favorito (VS Code, Sublime Text, etc.) y busca la etiqueta `<h1>`.
 
-3.  **Personaliza el contenido** Reemplaza el texto `SU_NOMBRE_AQUI` por:
+3.  **Personaliza el contenido** Reemplaza el texto `Mauricio Berbeo Murcia` por:
 
     - Tu nombre completo.
     - O una frase motivacional que te inspire hoy.
@@ -28,7 +28,7 @@
 
 > **Nota para el alumno:** Para que tu imagen se vea aquí, asegúrate de que el nombre del archivo coincida.
 
-![Captura de mi pantalla](./resultado.png)
+![alt text](<Mi captura.png>)
 
 ---
 
